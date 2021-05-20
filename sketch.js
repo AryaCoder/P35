@@ -27,7 +27,7 @@ textSize(20);
 }
 
 // function to display UI
-function draw() {
+function draw() {matchMedia,
   background(bg);
 
   if(keyDown(LEFT_ARROW)){
